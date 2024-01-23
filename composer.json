@@ -1,0 +1,25 @@
+{
+    "name": "bsk/contact",
+    "description": "For testing purpose",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bsk\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "balashankar",
+            "email": "balashankar.angappan@intergy.com.au"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+
+    "autoload-dev": {
+        "psr-4": {
+            "Bsk\\Contact\\": "src/"
+        }
+    }
+}
