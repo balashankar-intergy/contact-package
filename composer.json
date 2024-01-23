@@ -14,7 +14,6 @@
             "email": "balashankar.angappan@intergy.com.au"
         }
     ],
-    "minimum-stability": "dev",
     "require": {},
 
     "autoload-dev": {
